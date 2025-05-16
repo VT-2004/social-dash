@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://yourdomain.com/projects/your-project-id
+**URL**: (https://social-dash-sepia.vercel.app/)
 
 ## How can I edit this code?
 
